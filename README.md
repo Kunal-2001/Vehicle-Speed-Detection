@@ -49,8 +49,8 @@ https://user-images.githubusercontent.com/86252946/147607078-f8ddd660-df69-43d2-
 
 ##  Build With ❤️ by :
 
-- <a href="#">Kunal Singhal</a>
-- <a href="#">Pavan komisetty</a>
-- <a href="#">Aryan Jalla</a>
+- <a>Kunal Singhal</a>
+- <a>Pavan komisetty</a>
+- <a>Aryan Jalla</a>
 
 
